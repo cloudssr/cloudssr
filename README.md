@@ -1,4 +1,5 @@
 ### Hi there 👋
+# 主域名<a href="cloudssr.tk">cloudssr.tk</a>，备用域名<a href="wingswings.tk">wingswings.tk</a>
 
 <!--
 **cloudssr/cloudssr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
